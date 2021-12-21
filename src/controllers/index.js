@@ -1,0 +1,1 @@
+module.exports.covidController = require('./covid.controller');
